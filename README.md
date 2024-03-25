@@ -87,11 +87,12 @@
 사용자 희망도서 등록
 <img src="https://github.com/joominchul/LibraryManageSite/blob/main/%EC%8B%A4%ED%96%89%20%ED%99%94%EB%A9%B4/%EC%9C%A0%EC%A0%80/%EC%82%AC%EC%9A%A9%EC%9E%90%20%ED%9D%AC%EB%A7%9D%EB%8F%84%EC%84%9C.JPG?raw=true" width = "100%"></img>
 
+사용자 희망도서 목록
+<img src="https://github.com/joominchul/LibraryManageSite/blob/main/%EC%8B%A4%ED%96%89%20%ED%99%94%EB%A9%B4/%EC%9C%A0%EC%A0%80/%EC%82%AC%EC%9A%A9%EC%9E%90%20%ED%9D%AC%EB%A7%9D%EB%8F%84%EC%84%9C%20%EB%AA%A9%EB%A1%9D.JPG?raw=true" width = "100%"></img>
+
 프로젝트 결과 : 스프링을 활용한 다양한 기능 학습. 
 
 기대 효과 : 스프링을 활용한 사이트 개발 기술 습득.
 
 개선점 : 좀 더 독창적인 사이트 개발의 아쉬움.
 
-사용자 희망도서 목록
-<img src="https://github.com/joominchul/LibraryManageSite/blob/main/%EC%8B%A4%ED%96%89%20%ED%99%94%EB%A9%B4/%EC%9C%A0%EC%A0%80/%EC%82%AC%EC%9A%A9%EC%9E%90%20%ED%9D%AC%EB%A7%9D%EB%8F%84%EC%84%9C%20%EB%AA%A9%EB%A1%9D.JPG?raw=true" width = "100%"></img>
